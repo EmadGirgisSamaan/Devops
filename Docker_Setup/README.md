@@ -74,6 +74,6 @@ docker compose version
 
 # 👤 Author
 ############
-Emad Girgis Samaan
+Emad Gerges Samaan
 DevOps Engineer
 Last Updated: 06/2026

@@ -15,4 +15,4 @@ docker compose version
 systemctl status docker.service
 
 docker pull httpd
-docker images
+docker images 
